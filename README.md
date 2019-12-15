@@ -12,4 +12,8 @@ iface为通用接口类。
 ####logger
     
     通用功能。包括工具包
+    
+java -jar bin/felix.jar -b  auto-deploy/
+
+目录只能指定一个，绝对路径
          
